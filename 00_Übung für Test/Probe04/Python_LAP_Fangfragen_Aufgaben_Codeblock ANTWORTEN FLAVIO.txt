@@ -1,0 +1,87 @@
+augabe 1)
+weil die lsite nicht kopiert wird, sondern nur referneziert, das heisst die änderungen werden immer in der orginalen liste gemacht
+
+aufageb 2)
+nein es ist ein operator, genauer gesagt der element zugriff am index platz 0
+
+aufgabe 3)
+a = liste referenziert nur auf liste
+a = liste.copy() macht eine echte kopie der liste
+
+aufgabe 4)
+Es ist ein int, ein tupel müsste mehrere elemente haben, zb x = (5,4,3)
+
+augabe 5)
+weil das tupel gar nicht verändert wirde sondern die liste im tupel wird erweitert
+
+aufgabe 6)
+ja kann mann, tupel ist eine sammlung und mann kann durch alle sammlungen iterieren
+
+aufgabe 7)
+nein es ist kein set, es ist ein dictionary, ein leeres set wäre s = set()
+
+aufgabe 8)
+man kan auf ein set nicht via index zugriff zugreifen, da es nicht geordnet ist
+
+aufgabe 9)
+remove() gibt ein fehler aus wenn der wert nicht vorhanden ist, bei discard() passiert nichts
+
+aufgabe10)
+noten ist ein dictionary und da kann man nur via key auf die values zugreifen
+
+aufgabe 11)
+noten["Ben"]   gibt ein fehler auf wenn kein value vorhanden ist, get würde einfach none ausgeben
+
+aufgabe 12)
+Liefer beides aus, Schlüssel und Werte
+
+aufagbe 13)
+es gibt kein wert mit return zurückgegeben
+
+aufgabe 14)
+Nichts, da kein return
+
+aufgabe 15)
+damit die variable in anderen funktionen noch einen unveränderten wert hat
+
+aufgabe 16)
+die anonyme funktion hat nur einen parameter aber keine anweisung
+
+aufgabe 17)
+einen fehler, der syntax ist falsch
+
+aufgabe 18)
+wenn die funktion öfter aufgerufen werden muss
+
+aufgabe 19)
+weil innen() eine innere funktion ist, sie existiert und in aussen()
+
+aufagbe 20)
+habe ich vergessen
+
+aufagbe 21)
+die variable ist keine lokale variable mehr
+
+aufgabe 22)
+nein, es zählt nur die elemente
+
+aufgabe 23)
+es ist ein operator
+
+aufgabe 24)
+die bedingung ist immer wahr, es existiert auch kein break befehl
+
+aufgabe 25)
+break verlässt die schleife, continue überspringt nur den aktuellen loop
+
+aufgabe 26)
+set
+dictionary
+liste
+
+aufgabe 28)
+weil die heutigen computer genug rechenleistung haben um jede zeile nacheinander schnell abzuarbeiten
+
+
+
+

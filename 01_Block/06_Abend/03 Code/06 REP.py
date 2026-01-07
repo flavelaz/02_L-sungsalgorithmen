@@ -1,0 +1,5 @@
+zahlen = [3,1,3,2,1,4,3]
+
+setZahlen = set(zahlen)
+
+print(setZahlen)
